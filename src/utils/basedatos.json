@@ -1,11 +1,11 @@
 
-
-    {
+[
+    { 
         "nombre":"Juan Perez",
         "especialidad":"cortes modernos",
         "experiencia":"8 años",
         "correo":"juanperez@gmail.com",
-        "contacto":"320501245"
+        "contacto":"320501245" 
     },
     
     {
@@ -73,7 +73,7 @@
         "correo": "graciasfarid@gmail.com",
         "contacto": "3187845625"
     }
-    
+]    
 
 
 
